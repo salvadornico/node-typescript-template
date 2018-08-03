@@ -1,6 +1,4 @@
-## Nico's quick Node template
-
-Uses Typescript, Parcel, and Nodemon
+## Nico's quick Typescript Node template
 
 Launch dev server:
 
